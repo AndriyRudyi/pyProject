@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from tiktok import TikTokApi
 
 # TG token fron Bot father
-TOKEN = '6427072934:AAHiuCanWVIFCVE1qrHNKpXb8VApyKfFRz4'
+TOKEN = 'TOKETN4'
 api = TikTokApi()
 
 def start(update, context):
